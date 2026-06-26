@@ -60,5 +60,6 @@ Mobile & Full-stack developer with 6+ years of experience building production ap
 
 ## 🔗 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-moreira-dos-anjos-0a85b019a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-dos-anjos)
 [![GitHub](https://img.shields.io/badge/Bryant--Anjos-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bryant-Anjos)
+
