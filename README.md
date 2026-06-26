@@ -1,6 +1,13 @@
 # Hi, I'm Bryant 👋
 
-Full-stack developer focused on TypeScript, mobile apps, and modern web APIs. I build reusable libraries, SaaS starters, and AI-powered tools.
+Mobile & Full-stack developer with 6+ years of experience building production apps for iOS and Android. I specialize in **React Native** and **TypeScript**, and I've shipped apps with 100k+ users. Currently exploring AI integrations and building open-source tools.
+
+## About me
+
+- 📱 Mobile-first: **React Native** expert (Expo, bare workflow) + **Kotlin** / Jetpack Compose for Android
+- 🌐 Full-stack: APIs with **NestJS** / **Fastify**, **PostgreSQL**, Docker, CI/CD
+- 🤖 Building AI-powered tools — MCP servers, LLM integrations, WhatsApp automations
+- 👥 Led small teams and mentored junior developers
 
 ## 🛠 Tech Stack
 
@@ -53,4 +60,5 @@ Full-stack developer focused on TypeScript, mobile apps, and modern web APIs. I 
 
 ## 🔗 Find me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-moreira-dos-anjos-0a85b019a/)
 [![GitHub](https://img.shields.io/badge/Bryant--Anjos-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bryant-Anjos)
