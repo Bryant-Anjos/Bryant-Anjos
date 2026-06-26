@@ -47,9 +47,10 @@ Mobile & Full-stack developer with 6+ years of experience building production ap
 |---------|-------------|-------|
 | [saas-starter-kit](https://github.com/Bryant-Anjos/saas-starter-kit) | Opinionated SaaS monorepo starter with magic-link auth and one-click deploy | Fastify 5 · React 19 · Vite 6 · Tailwind 4 |
 | [react-native-highlighted-text](https://github.com/Bryant-Anjos/react-native-highlighted-text) | RN component to individually style text segments — 21 ⭐ | React Native · TypeScript |
-| [remixify](https://github.com/Bryant-Anjos/remixify) | React Native component library inspired by remix.run | React Native · TypeScript |
-| [darkfallen](https://github.com/Bryant-Anjos/darkfallen) | Mobile app built with Lynx + React Router + Tailwind CSS | Lynx · TypeScript |
-| [oh-my-2fa](https://github.com/Bryant-Anjos/oh-my-2fa) | 2FA authenticator — Bun monorepo (API + Web) | Bun · TypeScript |
+| [mobix-pokedex](https://github.com/Bryant-Anjos/mobix-pokedex) | Pokédex app built with React Native and PokéAPI | React Native · TypeScript · MobX |
+| [DailyPulseCMP](https://github.com/Bryant-Anjos/DailyPulseCMP) | Cross-platform health tracker for iOS and Android | Kotlin · Compose Multiplatform |
+| [hexagonal_architecture_bun](https://github.com/Bryant-Anjos/hexagonal_architecture_bun) | Hexagonal architecture example using Bun runtime | Bun · TypeScript |
+| [rn-mvvm](https://github.com/Bryant-Anjos/rn-mvvm) | MVVM architecture pattern applied to React Native | React Native · TypeScript |
 
 ## 📊 GitHub Stats
 
@@ -62,4 +63,3 @@ Mobile & Full-stack developer with 6+ years of experience building production ap
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-dos-anjos)
 [![GitHub](https://img.shields.io/badge/Bryant--Anjos-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bryant-Anjos)
-
