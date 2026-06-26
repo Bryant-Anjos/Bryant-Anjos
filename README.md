@@ -1,0 +1,53 @@
+# Hi, I'm Bryant 👋
+
+Full-stack developer focused on TypeScript, mobile apps, and modern web APIs. I build reusable libraries, SaaS starters, and AI-powered tools.
+
+## 🛠 Tech Stack
+
+**Languages & Runtimes**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+
+**Web & API**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-14151A?style=flat&logo=bun&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [saas-starter-kit](https://github.com/Bryant-Anjos/saas-starter-kit) | Opinionated SaaS monorepo starter with magic-link auth and one-click deploy | Fastify 5 · React 19 · Vite 6 · Tailwind 4 |
+| [react-native-highlighted-text](https://github.com/Bryant-Anjos/react-native-highlighted-text) | RN component to individually style text segments — 21 ⭐ | React Native · TypeScript |
+| [remixify](https://github.com/Bryant-Anjos/remixify) | React Native component library inspired by remix.run | React Native · TypeScript |
+| [darkfallen](https://github.com/Bryant-Anjos/darkfallen) | Mobile app built with Lynx + React Router + Tailwind CSS | Lynx · TypeScript |
+| [oh-my-2fa](https://github.com/Bryant-Anjos/oh-my-2fa) | 2FA authenticator — Bun monorepo (API + Web) | Bun · TypeScript |
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryant-Anjos&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryant-Anjos&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+</p>
+
+## 🔗 Find me
+
+[![GitHub](https://img.shields.io/badge/Bryant--Anjos-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bryant-Anjos)
