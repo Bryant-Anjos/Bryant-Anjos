@@ -1,4 +1,4 @@
-# Hi, I'm Bryant 👋
+# Bryant Moreira dos Anjos
 
 Mobile & Full-stack developer with 6+ years of experience building production apps for iOS and Android. I specialize in **React Native** and **TypeScript**, and I've shipped apps with 100k+ users. Currently exploring AI integrations and building open-source tools.
 
@@ -45,9 +45,9 @@ Mobile & Full-stack developer with 6+ years of experience building production ap
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [Eis Aqui](https://eisaqui.com.br) | Local discovery platform for Brazil — a searchable directory of community-recommended businesses, live in production | Fastify · React · PostgreSQL · Kysely |
 | [saas-starter-kit](https://github.com/Bryant-Anjos/saas-starter-kit) | Opinionated SaaS monorepo starter with magic-link auth and one-click deploy | Fastify 5 · React 19 · Vite 6 · Tailwind 4 |
 | [react-native-highlighted-text](https://github.com/Bryant-Anjos/react-native-highlighted-text) | RN component to individually style text segments — 21 ⭐ | React Native · TypeScript |
-| [mobix-pokedex](https://github.com/Bryant-Anjos/mobix-pokedex) | Pokédex app built with React Native and PokéAPI | React Native · TypeScript · MobX |
 | [DailyPulseCMP](https://github.com/Bryant-Anjos/DailyPulseCMP) | Cross-platform health tracker for iOS and Android | Kotlin · Compose Multiplatform |
 | [hexagonal_architecture_bun](https://github.com/Bryant-Anjos/hexagonal_architecture_bun) | Hexagonal architecture example using Bun runtime | Bun · TypeScript |
 | [rn-mvvm](https://github.com/Bryant-Anjos/rn-mvvm) | MVVM architecture pattern applied to React Native | React Native · TypeScript |
@@ -55,8 +55,8 @@ Mobile & Full-stack developer with 6+ years of experience building production ap
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryant-Anjos&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryant-Anjos&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Bryant-Anjos&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Bryant-Anjos&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
 ## 🔗 Find me
